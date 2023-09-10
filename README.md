@@ -1,2 +1,2 @@
-# OpenCV-Projects
-A Collection of My OpenCV Projects.
+# Computer Vision - Projects
+A Collection of My Deep Learning and Computer Vision Projects.
